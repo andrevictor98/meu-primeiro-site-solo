@@ -99,3 +99,13 @@ footer > p {
     padding: 4px;
     font-weight: 500;
 }
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: var(--cor3);
+}
